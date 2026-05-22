@@ -8,10 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganesh2045" alt="ganesh2045" /></a> </p>
 
-<img src="https://raw.githubusercontent.com/Ganesh2045/Ganesh2045/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ganesh2045/Ganesh2045/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ganesh2045/Ganesh2045/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ganesh2045/Ganesh2045/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ###
-
 - 🔭 I’m currently working on [Advanced RAG pipeline](https://github.com/Ganesh2045/RAG-Evaluation-Pipeline)
 
 - 🌱 I’m currently learning **Langchain**
