@@ -1,40 +1,133 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-<h1 align="center">Hi 👋, I'm Ganesh Mohanto</h1>
-<h3 align="center"> Developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganesh2045" alt="ganesh2045" /></a> </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ganesh2045/Ganesh2045/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ganesh2045/Ganesh2045/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ganesh2045/Ganesh2045/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
-- 🔭 I’m currently working on [Advanced RAG pipeline](https://github.com/Ganesh2045/RAG-Evaluation-Pipeline)
-
-- 🌱 I’m currently learning **Langchain**
-
-- 👯 I’m looking to collaborate on [Email Summarizer Automation](https://github.com/Ganesh2045/email-ai-automation)
-
-- 💬 Ask me about **AI/ML, Python, Gen AI**
-
-- 📫 How to reach me **ganeshmohanto07@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eOIYz5mmSIbNLHHbFgcsH-1LHx2ZgR1F/view?usp=sharing](https://drive.google.com/file/d/1eOIYz5mmSIbNLHHbFgcsH-1LHx2ZgR1F/view?usp=sharing)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ganesh-mohanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh-mohanto" height="30" width="40" /></a>
-<a href="https://instagram.com/ganesh_mohanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganesh_mohanto" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ganeshmohanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ganeshmohanto" height="30" width="40" /></a>
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Ganesh%20Mohanto&fontSize=65&theme=tokyonight&desc=CSE%20Student%20|%20AI/ML%20Engineer%20|%20Developer&descSize=20&descAlignY=62" width="100%" alt="Header Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- Dynamic Typing Effect -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=2ac3de&center=true&vCenter=true&width=550&lines=AI%2FML+%26+GenAI+Engineer;Full+Stack+Developer;CSE+Student;Creative+UI%2FUX+Designer" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/ganesh-mohanto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.leetcode.com/ganeshmohanto" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:ganeshmohanto07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://drive.google.com/file/d/1eOIYz5mmSIbNLHHbFgcsH-1LHx2ZgR1F/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-00C853?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://instagram.com/ganesh_mohanto" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+## ⚡ About Me
+
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <p>Hey there! I'm <b>Ganesh Mohanto</b>, a computer science student and software developer based in India. I specialize in building AI-powered applications, machine learning workflows, and automation tools.</p>
+      <ul>
+        <li>🔭 <b>Working on:</b> <a href="https://github.com/Ganesh2045/RAG-Evaluation-Pipeline">Advanced RAG pipeline</a></li>
+        <li>🌱 <b>Learning:</b> Langchain, LLM Agents, and Large Language Model architectures</li>
+        <li>👯 <b>Collaborating on:</b> <a href="https://github.com/Ganesh2045/email-ai-automation">Email Summarizer Automation</a></li>
+        <li>💬 <b>Ask me about:</b> AI/ML, GenAI, Python, and Full-Stack Engineering</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/desktop.gif" width="220" alt="Developer Coding Animation" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Languages & Tech Stack
+
+### 🤖 Artificial Intelligence & Machine Learning
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit-learn,pandas,opencv" alt="AI/ML Stack" />
+  </a>
+</p>
+
+### 🌐 Frontend & Web Technologies
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs" alt="Frontend Stack" />
+  </a>
+</p>
+
+### ⚙️ Backend, Systems & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,scala,postgres,mongodb,mysql" alt="Backend Stack" />
+  </a>
+</p>
+
+### 🐳 DevOps, OS & Cloud Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git" alt="DevOps Stack" />
+  </a>
+</p>
+
+### 🎨 Creative & UI/UX Design
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,blender" alt="Design Stack" />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ganesh2045&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+## 📈 Git Activity & Stats
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=ganesh2045&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ac3de&icon_color=2ac3de&text_color=a9b1d6" alt="Ganesh's GitHub Stats" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh2045&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ac3de&text_color=a9b1d6" alt="Ganesh's Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh2045&theme=tokyonight&hide_border=true&background=0d1117&ring=2ac3de&fire=ff007f&currStreakLabel=2ac3de" alt="Ganesh's Streak Stats" />
+</div>
+
+---
+
+## 👾 Animated Contribution Graph
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ganesh2045/Ganesh2045/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ganesh2045/Ganesh2045/pacman-output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Ganesh2045/Ganesh2045/pacman-output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</p>
+
+<!-- Animated Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&theme=tokyonight" width="100%" alt="Footer Banner" />
+</p>
