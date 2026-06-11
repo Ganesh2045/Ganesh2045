@@ -10,6 +10,7 @@
   </a>
 </p>
 
+<!-- Socials & Stats Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/ganesh-mohanto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -26,6 +27,7 @@
   <a href="https://instagram.com/ganesh_mohanto" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Ganesh2045&color=2ac3de&style=for-the-badge&label=Views" alt="Profile Views" />
 </p>
 
 ---
@@ -118,13 +120,27 @@
 
 ---
 
-## 👾 Animated Contribution Graph
+## 🎮 Contribution Arcade
+
+### 👾 Pacman Grid
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ganesh2045/Ganesh2045/pacman-output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ganesh2045/Ganesh2045/pacman-output/pacman-contribution-graph.svg">
     <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Ganesh2045/Ganesh2045/pacman-output/pacman-contribution-graph.svg" width="100%">
   </picture>
+</p>
+
+### 🐍 Contribution Grid Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ganesh2045/Ganesh2045/snake-output/snake.svg" alt="Grid Snake Animation" width="100%" />
+</p>
+
+---
+
+<!-- Dynamic Programming Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Programming Quote" />
 </p>
 
 <!-- Animated Footer Wave -->
